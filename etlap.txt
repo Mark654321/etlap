@@ -5,3 +5,5 @@ salata, levesek, tatarbisztek
 pacal, rantotthusi, csulok
 -DESSZERT
 sutike,fagyika
+
+-vasarnapi kulonlegesseg
